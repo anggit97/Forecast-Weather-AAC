@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Forcast MVVM</string>
+    <string name="label_today">Hari Ini</string>
+    <string name="label_7_days">7 Days</string>
+    <string name="label_setting">Pengaturan</string>
+</resources>
